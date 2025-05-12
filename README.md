@@ -1,9 +1,17 @@
-![28121cfbab6d0aaf417d926f091e2083](https://github.com/user-attachments/assets/ebae9ea3-8184-42d6-8465-7ee34183f1ee)
-
 ## 🟩🟫 Bem-vindo(a) ao meu mundo, aventureiro(a)! 🟫🟩
 
-🧱🪓 **Nome:** [Helio-Ferraz]  
-🌍 **Localização:** Overworld  
+![j4sCXvRbLHlba](https://github.com/user-attachments/assets/d328dffe-4efa-4769-b712-0623c5ec1546)
+
+---
+
+## 🙂 **Prazer, meu nome é Helio Amorim Santos Ferraz, Pode me chamar apenas de Helio**
+
+---
+
+## 🌍 **Localização:** 
+
+<img align="left" alt="Santana-de-Parnaiba" src="https://i0.wp.com/pegamosumaestrada.com.br/wp-content/uploads/2021/11/Coreto.jpg" width="1000" />
+
 🛠️ **Ferramentas favoritas:** Java, JavaScript, Python  
 🐷 **Mob favorito:** Porco (especialmente quando montado 😎)
 
@@ -19,7 +27,7 @@ Comigo, cada commit é um bloco a mais rumo à fortaleza do conhecimento!
 ### ⛏️ Meus projetos são como: ![88e5540465d258ab1d271bfc11189533](https://github.com/user-attachments/assets/01e4eba2-fba5-4734-b6ef-f435fedf2168)
 
 
-🗺️ `Mundos abertos` – Cada repositório é um novo mapa a ser explorado.  
+🗺️ `Mundos abertos` – Uma referencia   
 🧪 `Poções` – Experimentos com código e frameworks.  
 🛡️ `Equipamento encantado` – Código limpo, testado e pronto para enfrentar qualquer creeper!
 
