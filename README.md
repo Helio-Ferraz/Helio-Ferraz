@@ -4,7 +4,9 @@
 
 ---
 
-## 🙂 **Prazer, meu nome é Helio Amorim Santos Ferraz, Pode me chamar apenas de Helio**
+### 🙂 Prazer, meu nome é Helio Amorim Santos Ferraz, mas você pode me chamar apenas de helio.
+
+Sou um iniciante em programação, buscando novas oportunidades e conhecimento em geral, visando aumentar minha area de trabalho e agregar a minha carreira.
 
 ---
 
@@ -12,19 +14,20 @@
 
 <img align="left" alt="Santana-de-Parnaiba" src="https://i0.wp.com/pegamosumaestrada.com.br/wp-content/uploads/2021/11/Coreto.jpg" width="1000" />
 
-🛠️ **Ferramentas favoritas:** Java, JavaScript, Python  
-🐷 **Mob favorito:** Porco (especialmente quando montado 😎)
+</p>
 
 ---
 
-### 🧱 Sobre mim
+### 🧱 Descrição:
 
-Sou um(a) desenvolvedor(a) que adora minerar bugs, construir soluções e explorar novas tecnologias como se fossem biomas desconhecidos.  
-Comigo, cada commit é um bloco a mais rumo à fortaleza do conhecimento!
+Minha cidade natal, bela de sua maneira e extremamente viva (em quesito de natureza e beleza antiga)
+
 
 ---
 
-### ⛏️ Meus projetos são como: ![88e5540465d258ab1d271bfc11189533](https://github.com/user-attachments/assets/01e4eba2-fba5-4734-b6ef-f435fedf2168)
+### ⛏️ Meus projetos são como: 
+
+<img align="left" alt="Overword-beauty" src="https://i.pinimg.com/originals/88/e5/54/88e5540465d258ab1d271bfc11189533.gif" />
 
 
 🗺️ `Mundos abertos` – Uma referencia   
