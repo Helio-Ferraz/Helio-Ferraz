@@ -1,65 +1,41 @@
-## 🟩🟫 Bem-vindo(a) ao meu mundo, aventureiro(a)! 🟫🟩
+<h1 align="center">
+  🐉 DevZero 🐉<br/>
+  <sub>"The Bug Exterminator"</sub>
+</h1>
 
-![j4sCXvRbLHlba](https://github.com/user-attachments/assets/d328dffe-4efa-4769-b712-0623c5ec1546)
-
----
-
-### 🙂 Prazer, meu nome é Helio Amorim Santos Ferraz, mas você pode me chamar apenas de helio.
-
-Sou um iniciante em programação, buscando novas oportunidades e conhecimento em geral, visando aumentar minha area de trabalho e agregar a minha carreira.
-
----
-
-## 🌍 **Localização:** 
-
-<img align="left" alt="Santana-de-Parnaiba" src="https://i0.wp.com/pegamosumaestrada.com.br/wp-content/uploads/2021/11/Coreto.jpg" width="1000" />
-
+<p align="center">
+  <img src="https://media.tenor.com/x8v1oNUOmg4AAAAC/mortal-kombat.gif" width="300"/>
 </p>
 
 ---
 
-### 🧱 Descrição:
-
-Minha cidade natal, bela de sua maneira e extremamente viva (em quesito de natureza e beleza antiga)
-
-
----
-
-### ⛏️ Meus projetos são como: 
-
-<img align="left" alt="Overword-beauty" src="https://i.pinimg.com/originals/88/e5/54/88e5540465d258ab1d271bfc11189533.gif" />
-
-
-🗺️ `Mundos abertos` – Uma referencia   
-🧪 `Poções` – Experimentos com código e frameworks.  
-🛡️ `Equipamento encantado` – Código limpo, testado e pronto para enfrentar qualquer creeper!
+### ⚔️ Estatísticas de Combate
+- 🧠 **Inteligência**: 95  
+- 🧪 **Habilidade com Bugs**: 100  
+- ⚡ **Velocidade de Deploy**: 90  
+- 🔥 **Poder de Refatoração**: 99  
+- 🧛 **Controle de Versão**: 100  
+- ☠️ **Fatality**: `git push --force`
 
 ---
 
-### 📦 Inventário (Skills)
+### 🧾 História
+Forjado nas batalhas infinitas do Stack Overflow, **DevZero** emergiu como campeão do GitHub.  
+Dominador de linguagens sombrias como **JavaScript**, **Python** e **Rust**,  
+resolve conflitos antes mesmo deles acontecerem.
 
-- ⚙️ Python & Django
-- 🧱 Git, GitHub & CI/CD
-- 🧙 APIs, SQL e GraphQL
-
----
-
-### 🏹 Contato
-
-- 📨 Envie um pombo-correio: [amorimsantosferrazhelio@gmail.com]  
-- 🗺️ Visite minha vila: [linkedin.com/in/seulink](https://linkedin.com/in/seulink)
+> “No meu terminal... você já está morto.”
 
 ---
 
-📈 Nível de XP:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=chartreuse-dark&hide=stars)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=chartreuse-dark&hide=html,css,java)
-
+### 🧰 Armas
+- `VSCode Kunai`  
+- `Terminal Katana`  
+- `Debugger Chakram`  
+- `Framework Scrolls`: React ⚛️ | Node 🟢 | Django 🐍
 
 ---
 
-☠️ "Nunca cave diretamente para baixo!" — também vale para debug.
-
-🟫🟩🟫🟩🟫🟩🟫🟩
+### 🧙‍♂️ Poderes Especiais
+- 🌀 `Teleport Debug`: Localiza erros instantaneamente  
+- ❄️ `Code Freeze`: Paralisa sistemas
