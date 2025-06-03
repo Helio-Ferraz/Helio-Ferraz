@@ -13,7 +13,7 @@
 
 ## 🧊 Sobre mim
 
-🎭 Me chamo [Seu Nome ou Nick], um dev que recomeça até acertar!<br>
+🎭 Me chamo Helio, um dev que recomeça até acertar!<br>
 💻 Apaixonado por programação, animes e desafios difíceis como loops temporais.<br>
 🧠 Sempre aprendendo algo novo – nem que seja do jeito mais difícil, igual o Subaru.<br>
 
@@ -21,20 +21,17 @@
 
 ## 🛠️ Skills principais
 
-- ⚙️ **Back-end:** Node.js | Python | Java
-- 🎨 **Front-end:** React | HTML5 | CSS3 | Tailwind
-- 🗄️ **Banco de dados:** PostgreSQL | MongoDB
-- 🌀 **Outros:** Git | Docker | Linux | APIs REST
+- ⚙️ **Programação em PYTHON!**
 
 ---
 
 ## 🌌 Meu universo de animes favoritos
 
 - Re:Zero (obviamente!)
-- Steins;Gate
-- Attack on Titan
-- Made in Abyss
-- Mushoku Tensei
+- Jujutsu kaisen!
+- JoJo no Kimyō na Bōken
+- Bleach
+  
 
 ---
 
