@@ -40,3 +40,7 @@
 ```bash
 git commit -m "Sobrevivi mais um dia como dev"
 git push origin master
+
+## 📊 Estatísticas do GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
