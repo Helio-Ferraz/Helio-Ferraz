@@ -1,7 +1,7 @@
 <h1 align="center">👑 Bem-vindo ao meu mundo, igual ao de Re:Zero! ⏳</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/hHtxMlA.gif" width="300" alt="Re:Zero Logo"/>
+  <img src="https://i.pinimg.com/originals/13/6d/0c/136d0c6f8179ab594a73ea45b0c6bdfd.gif" width="300" alt="Re:Zero Logo"/>
 </p>
 
 <p align="center">
@@ -22,6 +22,8 @@
 ## 🛠️ Skills principais
 
 - ⚙️ **Programação em PYTHON!**
+- 📱 **Desenvolvendo habilidades sociais!**
+- 
 
 ---
 
@@ -40,7 +42,8 @@
 ```bash
 git commit -m "Sobrevivi mais um dia como dev"
 git push origin master
-
+```
 ## 📊 Estatísticas do GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helio-Ferraz&layout=compact&theme=tokyonight) / ![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=Helio-Ferraz&show_icons=true&theme=tokyonight)
+
