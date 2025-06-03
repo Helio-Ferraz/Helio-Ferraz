@@ -14,7 +14,7 @@
 ## 🧊 Sobre mim
 
 🎭 Me chamo Helio, um dev que recomeça até acertar!<br>
-💻 Apaixonado por programação, animes e desafios difíceis como loops temporais.<br>
+💻 Apaixonado por programação, animes, games e desafios difíceis como loops temporais.<br>
 🧠 Sempre aprendendo algo novo – nem que seja do jeito mais difícil, igual o Subaru.<br>
 
 ---
