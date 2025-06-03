@@ -1,38 +1,45 @@
-<h1 align="center">
-  🐉 Helio 🐉<br/>
-  <sub>"Mortal Kombat"</sub>
-</h1>
-
-<img align="right" alt="Scorpion Gif" src="https://i.pinimg.com/originals/8e/60/30/8e60303b59db0dce8c47c4c2f1a027f7.gif" />
-
+<h1 align="center">👑 Bem-vindo ao meu mundo, igual ao de Re:Zero! ⏳</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/x8v1oNUOmg4AAAAC/mortal-kombat.gif" width="300"/>
+  <img src="https://i.imgur.com/hHtxMlA.gif" width="300" alt="Re:Zero Logo"/>
+</p>
+
+<p align="center">
+  <em>“A vida pode ser reiniciada quantas vezes for preciso, desde que haja determinação para seguir em frente.”</em>
+  <br>– Subaru Natsuki
 </p>
 
 ---
 
-### 
-- 🧠 **Inteligência**: 95  
-- 🧪 **Habilidade com Bugs**: 100  
-- ⚡ **Velocidade de Deploy**: 90  
-- 🔥 **Poder de Refatoração**: 99  
-- 🧛 **Controle de Versão**: 100  
-- ☠️ **Fatality**: `git push --force`
+## 🧊 Sobre mim
+
+🎭 Me chamo [Seu Nome ou Nick], um dev que recomeça até acertar!<br>
+💻 Apaixonado por programação, animes e desafios difíceis como loops temporais.<br>
+🧠 Sempre aprendendo algo novo – nem que seja do jeito mais difícil, igual o Subaru.<br>
 
 ---
 
-### 🧾 História
-Iniciante em programação, visando agregar a carreira
+## 🛠️ Skills principais
 
-> “No meu terminal... você já está morto.”
-
----
-
-<p align="left"> <img src="https://img.shields.io/badge/Code%20Style-MK11%20Fatality-red?style=flat-square" /> <img src="https://img.shields.io/badge/Fatal%20Commits-💀💀💀💀💀-black?style=flat-square" /> <img src="https://img.shields.io/badge/IDE%20Power-Level%209000-purple?style=flat-square" /> </p> <p align="center"> <strong>🔥Criação Github🔥</strong> </p>
+- ⚙️ **Back-end:** Node.js | Python | Java
+- 🎨 **Front-end:** React | HTML5 | CSS3 | Tailwind
+- 🗄️ **Banco de dados:** PostgreSQL | MongoDB
+- 🌀 **Outros:** Git | Docker | Linux | APIs REST
 
 ---
 
-### 🧙‍♂️ Poderes Especiais
-- 🌀 `Teleport Debug`: Localiza erros instantaneamente  
-- ❄️ `Code Freeze`: Paralisa sistemas
+## 🌌 Meu universo de animes favoritos
+
+- Re:Zero (obviamente!)
+- Steins;Gate
+- Attack on Titan
+- Made in Abyss
+- Mushoku Tensei
+
+---
+
+## 🔁 "Return by Death"... ou pelo Git 😅
+
+```bash
+git commit -m "Sobrevivi mais um dia como dev"
+git push origin master
