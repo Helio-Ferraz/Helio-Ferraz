@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Meu nome é Helio, sou um estudante de programação em python, seja bem vindo ao meu perfil.</h2>
+<h2 align="left">Estudante de programação em python: Helio.
 
 ###
 
